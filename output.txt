@@ -1,0 +1,77 @@
+Broadridge’ [he Dremee [eam
+
+Congratulations to the
+ICS SRE team!
+
+Annual KIID Refresh Overview
+
+The KIID season for FCS completed without any major issues receiving great feedback from the business
+stating “outstanding”, noting that the system worked perfectly, and the performance was top-notch. Our
+support ensured that the VDIs and applications were fully equipped to handle the heavy calculation jobs
+ran without any issues, showcasing our team’s technical prowess and preparedness.
+
+For the first time, we initiated readiness for FCS Dublin in preparedness for KIID & PRIIP. The following
+components have been enhanced as part of the readiness exercise:
+
+Key Achievements
+
+Reviewed all servers and machines
+
+resource utilizations:
+0 This ensures that the resources are being used
+efficiently and effectively, and any potential issues
+are identified and addressed.
+
+Completed VDI user entitlement
+review with Ops teams and applied
+necessary updates:
+
+This ensures that user access and permissions are
+
+up to date and aligned with operational
+requirements.
+
+Reviewed backup jobs and retention
+for all VDI machines:
+
+This ensures that data is being backed up properly
+and retained for the necessary period, ensuring
+data security and availability.
+
+Patched SQL Servers with the
+latest updates:
+
+This ensures that the SQL servers are up to date
+with the latest security patches and performance
+improvements.
+
+Expanded all VDI machines C Drive
+to 100 GB:
+
+This expansion allows for future growth and usage,
+ensuring that the VDI machines have adequate
+storage capacity.
+
+Reviewed disk space on file share servers:
+
+(7) This ensures that there is adequate storage capacity
+on file share servers to accommodate data storage
+
+needs.
+
+Rebooted all VDI’s:
+
+This ensures that resource utilization is normal and
+addresses any potential issues that may have arisen.
+
+Updated eFile certificate for
+
+© Luxembourg filings:
+This ensures compliance with regulatory
+
+requirements for filing in Luxembourg.
+
+Team Members
+
+Praneeth Dadi Appa Jurreddy Naresh Sura Ravinder Sandeep Krishna Narendra
+Renabothu Seerapu Pinnapureddy Gangasani
