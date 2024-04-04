@@ -1,2 +1,2 @@
 # OCR_Project
-Read the text from the Images
+Practicing using the github
